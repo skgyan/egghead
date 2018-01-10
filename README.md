@@ -1,1 +1,1 @@
-# Examples for CSSinJS Egghead courses.
+# Examples for CSSinJS Egghead courses
