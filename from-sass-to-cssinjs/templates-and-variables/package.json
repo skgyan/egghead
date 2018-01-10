@@ -1,5 +1,5 @@
 {
-  "name": "from-sass-to-cssinjs-templates-and-variables",
+  "name": "From Sass to CSSinJS: templates and variables",
   "description": "Lets convert a very basic button written in SASS to CSSinJS without using any CSSinJS libraries.",
   "version": "0.0.130",
   "dependencies": {},
