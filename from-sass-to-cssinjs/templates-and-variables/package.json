@@ -1,7 +1,7 @@
 {
-  "name": "cssinjs-for-beginners",
-  "description": "Lets convert a very basic written in SASS to CSSinJS without using any CSSinJS libraries.",
-  "version": "0.0.40",
+  "name": "from-sass-to-cssinjs-templates-and-variables",
+  "description": "Lets convert a very basic button written in SASS to CSSinJS without using any CSSinJS libraries.",
+  "version": "0.0.130",
   "dependencies": {},
   "devDependencies": {
     "eslint": "^4.5.0",
