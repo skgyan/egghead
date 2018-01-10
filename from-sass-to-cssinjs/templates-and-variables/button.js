@@ -11,7 +11,7 @@ const button = `
     font-size: ${baseFontSize};
     border-radius: ${borderRadius};
     color: #fff;
-    background-color: green;    
+    background-color: green;
   }
 `
 
