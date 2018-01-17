@@ -1,6 +1,6 @@
 {
-  "name": "From Sass to CSSinJS: templates and variables",
-  "description": "Lets convert a very basic button written in SASS to CSSinJS without using any CSSinJS libraries.",
+  "name": "From Sass to CSSinJS: import directive",
+  "description": "We will learn how to use JavaScript import statement for CSS in JS as a replacement for @import directive and what are the important differences for a large code base.",
   "version": "0.0.130",
   "dependencies": {},
   "devDependencies": {
