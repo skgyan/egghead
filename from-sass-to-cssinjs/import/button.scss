@@ -1,0 +1,9 @@
+@import './variables';
+
+.sass-btn {
+  padding: $btn-padding-y $btn-padding-x;
+  font-size: $font-size-base;
+  border-radius: $btn-border-radius;
+  color: #fff;
+  background-color: #0069d9;
+}
