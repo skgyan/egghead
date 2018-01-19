@@ -1,4 +1,4 @@
-## Templates and variables
+## Convert SCSS Styled Button to CSS in JS with JavaScript Templates and Variables
 
 Lets convert a very basic button written in SASS to CSSinJS without using any CSSinJS libraries.
 

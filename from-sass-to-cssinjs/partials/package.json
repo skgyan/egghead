@@ -1,6 +1,6 @@
 {
   "name": "From Sass to CSSinJS: partials",
-  "description": "",
+  "description": "We will learn how to leverage JavaScript Modules to import CSS partials. We will also learn how CSS in JS partials are different to SCSS.",
   "version": "0.0.130",
   "dependencies": {},
   "devDependencies": {
