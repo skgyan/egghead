@@ -1,4 +1,4 @@
-import {lg} from './sizes'
+import sizes from './sizes'
 
 const button = `
   .cssinjs-btn {
@@ -10,4 +10,4 @@ const button = `
 // Render styles.
 document.head.appendChild(
   document.createElement('style')
-).textContent = lg + button
+).textContent = sizes + button
