@@ -1,6 +1,6 @@
 {
-  "name": "From Sass to CSSinJS: partials",
-  "description": "We will learn how to leverage JavaScript Modules to import CSS partials, how CSS in JS partials are different to SCSS, how to use default export and how to control the order of partials rendering.",
+  "name": "From Sass to CSSinJS: mixins",
+  "description": "We will learn how to use JavaScript functions as an alternative to @mixin  directive. Also we will learn how a function can become a CSS mixin.",
   "version": "0.0.130",
   "dependencies": {},
   "devDependencies": {
