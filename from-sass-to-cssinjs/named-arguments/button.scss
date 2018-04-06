@@ -1,0 +1,14 @@
+@import "./variables";
+@import "./mixins";
+
+.sass-btn {
+  color: #fff;
+  background-color: #0069d9;
+  margin: 5px;
+  @include button-size(
+    $padding-y: $btn-padding-y-lg,
+    $padding-x: $btn-padding-x-lg,
+    $font-size: $font-size-lg,
+    $border-radius: $btn-border-radius-lg
+  );
+}
