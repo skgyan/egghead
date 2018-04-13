@@ -6,4 +6,5 @@
   background-color: #0069d9;
   margin: 5px;
   @include button-size();
+  @include box-shadow(0px 4px 5px #666, 2px 6px 10px #999);
 }
